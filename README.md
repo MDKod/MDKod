@@ -141,12 +141,12 @@ Projects that represent different areas of my development journey.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MDKod&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=MDKod&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDKod&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MDKod&layout=compact&theme=transparent&hide_border=true"
     alt="Most used programming languages"
   />
 </p>
